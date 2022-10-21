@@ -39,6 +39,6 @@ I am @koalalikecode <img src="https://media.giphy.com/media/UoeTFvqSYbYx24oEzb/g
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=koalalikecode&theme=dracula&background=000000)](https://git.io/streak-stats)
+[![koalalikecode's GitHub stats](https://github-readme-stats.vercel.app/api?username=koalalikecode&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koalalikecode&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=koalalikecode&theme=dracula)](https://git.io/streak-stats)

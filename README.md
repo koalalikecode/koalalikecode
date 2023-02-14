@@ -20,10 +20,12 @@ I am @koalalikecode <img src="https://media.giphy.com/media/UoeTFvqSYbYx24oEzb/g
 - 🔭 I’m currently learning Information Technology at Ha Noi University of Science and Technology.
 - 🌱 I’m interested in Web Development, AI and Software Engineering.
 - :zap: In my free time, I read books or try coding something.
+- :memo: See my blog here: <a href='https://koalalikecode-blog.vercel.app/'>koalalikecode-blog</a>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html" alt="html" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
@@ -34,6 +36,8 @@ I am @koalalikecode <img src="https://media.giphy.com/media/UoeTFvqSYbYx24oEzb/g
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="sql_server" alt="sql_server" width="40" height="40"/>&nbsp;
 </div>
 
 ---

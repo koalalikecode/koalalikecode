@@ -19,7 +19,7 @@
 I am @koalalikecode <img src="https://media.giphy.com/media/UoeTFvqSYbYx24oEzb/giphy.gif" width="30">
 - 🔭 I’m currently learning Information Technology at Ha Noi University of Science and Technology.
 - 🌱 I’m interested in Web Development, AI and Software Engineering.
-- :zap: In my free time, I read books or try coding something.
+- :zap: In my free time, I like to learn new technologies and try building a project.
 - :memo: See my blog here: <a href='https://koalalikecode-blog.vercel.app/'>koalalikecode-blog</a>
 ---
 
@@ -31,6 +31,7 @@ I am @koalalikecode <img src="https://media.giphy.com/media/UoeTFvqSYbYx24oEzb/g
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Nodejs" alt="Nodejs" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Expressjs" alt="Expressjs" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
@@ -43,6 +44,6 @@ I am @koalalikecode <img src="https://media.giphy.com/media/UoeTFvqSYbYx24oEzb/g
 ---
 
 ### :fire: My Stats :
-[![koalalikecode's GitHub stats](https://github-readme-stats.vercel.app/api?username=koalalikecode&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![koalalikecode's GitHub stats](https://github-readme-stats.vercel.app/api?username=koalalikecode&show_icons=true&theme=dracula&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=koalalikecode&theme=dracula)](https://git.io/streak-stats)

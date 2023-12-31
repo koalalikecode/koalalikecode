@@ -39,6 +39,7 @@ I am @koalalikecode <img src="https://media.giphy.com/media/UoeTFvqSYbYx24oEzb/g
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="sql_server" alt="sql_server" width="40" height="40"/>&nbsp;
+<img src="https://github.githubassets.com/assets/actions-icon-actions-61925a4b8822.svg" title="sql_server" alt="github_actions" width="40" height="40"/>&nbsp;
 </div>
 
 ---

@@ -45,6 +45,4 @@ I am @koalalikecode <img src="https://media.giphy.com/media/UoeTFvqSYbYx24oEzb/g
 ---
 
 ### :fire: My Stats :
-[![koalalikecode's GitHub stats](https://github-readme-stats.vercel.app/api?username=koalalikecode&show_icons=true&theme=dracula&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=koalalikecode&theme=dracula)](https://git.io/streak-stats)
+<img src="/github-metrics.svg" alt="Metrics" width="100%">

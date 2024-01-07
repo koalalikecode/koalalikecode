@@ -25,10 +25,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: koalalikecode
+          user: koalalikeocde
           template: classic
-          base: activity, community, repositories, metadata
-          config_display: columns
+          base: header, activity, community, repositories, metadata
+          config_display: large
           config_timezone: Asia/Bangkok
           plugin_achievements: yes
           plugin_achievements_display: detailed
